@@ -1,0 +1,1638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\contexts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\contexts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.infrasracture\\services\\token\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|solutionrelative:infrastracture\\eticaretapi.infrasracture\\services\\token\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\createuser\\commands\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\createuser\\commands\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\abstraction\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\abstraction\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\abstraction\\services\\authentication\\iexternalauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\abstraction\\services\\authentication\\iexternalauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\abstraction\\services\\authentication\\iinternalauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\abstraction\\services\\authentication\\iinternalauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\abstraction\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\abstraction\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\createuser\\commands\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\createuser\\commands\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\dtos\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\dtos\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\createuser\\commands\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\createuser\\commands\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\queries\\getproductimages\\getproductfileimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\queries\\getproductimages\\getproductfileimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\facebooklogin\\commands\\facebooklogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\facebooklogin\\commands\\facebooklogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\facebooklogin\\commands\\facebooklogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\facebooklogin\\commands\\facebooklogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\facebooklogin\\commands\\facebooklogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\facebooklogin\\commands\\facebooklogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\queries\\getproductimages\\getproductfileimagesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\queries\\getproductimages\\getproductfileimagesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\queries\\getproductimages\\getproductfileimagesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\queries\\getproductimages\\getproductfileimagesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\extensions\\configureexceptionhandlerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\extensions\\configureexceptionhandlerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\configuration\\usernamecolumnwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\configuration\\usernamecolumnwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\commands\\remove\\removeproductfileimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\commands\\remove\\removeproductfileimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\commands\\remove\\removeproductfileimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\commands\\remove\\removeproductfileimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\commands\\upload\\uploadproductfileimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\commands\\upload\\uploadproductfileimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\productimagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\productimagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\commands\\upload\\uploadproductfileimagecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\commands\\upload\\uploadproductfileimagecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\commands\\upload\\uploadproductfileimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\commands\\upload\\uploadproductfileimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.infrasracture\\services\\storage\\azure\\azurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|solutionrelative:infrastracture\\eticaretapi.infrasracture\\services\\storage\\azure\\azurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.infrasracture\\services\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|solutionrelative:infrastracture\\eticaretapi.infrasracture\\services\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\exceptions\\authenticationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\exceptions\\authenticationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\eticaretapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\eticaretapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\validators\\products\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\validators\\products\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\googlelogin\\commands\\googlelogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\googlelogin\\commands\\googlelogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\assemblyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\assemblyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\googlelogin\\commands\\googlelogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\googlelogin\\commands\\googlelogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\googlelogin\\commands\\googlelogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\googlelogin\\commands\\googlelogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\abstraction\\storage\\azure\\iazurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\abstraction\\storage\\azure\\iazurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.infrasracture\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|solutionrelative:infrastracture\\eticaretapi.infrasracture\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\token\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\token\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\refreshtokenlogin\\commands\\refreshtokenlogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\refreshtokenlogin\\commands\\refreshtokenlogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\refreshtokenlogin\\commands\\refreshtokenlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\refreshtokenlogin\\commands\\refreshtokenlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\refreshtokenlogin\\commands\\refreshtokenlogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\refreshtokenlogin\\commands\\refreshtokenlogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\appuser\\loginuser\\commands\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\appuser\\loginuser\\commands\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\20240327121224_mig_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\20240327121224_mig_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\dtos\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\dtos\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\20240327104838_mig_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\20240327104838_mig_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\dtos\\user\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\dtos\\user\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\appuser\\loginuser\\commands\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\appuser\\loginuser\\commands\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\dtos\\facebook\\facebookuseraccesstokenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\dtos\\facebook\\facebookuseraccesstokenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\dtos\\facebook\\facebookuserinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\dtos\\facebook\\facebookuserinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\dtos\\facebook\\facebookaccesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\dtos\\facebook\\facebookaccesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\appuser\\loginuser\\commands\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\appuser\\loginuser\\commands\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\exceptions\\notfounduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\exceptions\\notfounduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\exceptions\\usercreatefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\exceptions\\usercreatefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\results\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\results\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\results\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\results\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\20240310143331_mig_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\20240310143331_mig_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\eticaretapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\eticaretapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\productfileimage\\commands\\remove\\removeproductfileimagecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\productfileimage\\commands\\remove\\removeproductfileimagecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\remove\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\remove\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\queries\\getbyid\\getbyidproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\queries\\getbyid\\getbyidproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\queries\\getbyid\\getbyidproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\queries\\getbyid\\getbyidproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\queries\\getbyid\\getbyidproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\queries\\getbyid\\getbyidproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\remove\\removeproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\remove\\removeproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\queries\\getall\\getallproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\queries\\getall\\getallproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\queries\\getall\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\queries\\getall\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\queries\\getall\\getallproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\queries\\getall\\getallproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\remove\\removeproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\remove\\removeproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\update\\updateproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\update\\updateproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\update\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\update\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\viewmodels\\vm_update_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\viewmodels\\vm_update_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\create\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\create\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\features\\product\\commands\\create\\createproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\product\\commands\\create\\createproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.application\\viewmodels\\vm_create_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE47D2-4694-4FE9-9C52-A975735DDB55}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\viewmodels\\vm_create_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.infrasracture\\services\\storage\\local\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|solutionrelative:infrastracture\\eticaretapi.infrasracture\\services\\storage\\local\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\core\\eticaretapi.domain\\entities\\invoicefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9137C125-A2C6-49F2-9335-A701DBB94DB4}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\invoicefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.infrasracture\\services\\storage\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F4DAF0-69B6-4139-85AF-3384D551D54E}|Infrastracture\\ETicaretAPI.Infrasracture\\ETicaretAPI.Infrasracture.csproj|solutionrelative:infrastracture\\eticaretapi.infrasracture\\services\\storage\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93B2B68-684F-4303-951F-442D73AFBF1E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\20240223130350_mig_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\20240223130350_mig_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\repositories\\file\\filewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\repositories\\file\\filewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\20240227110621_mig_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\20240227110621_mig_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\migrations\\20240216153405_mig_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\migrations\\20240216153405_mig_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|c:\\users\\kagan\\onedrive\\desktop\\eticaretuygulamasi\\eticaretapi\\infrastracture\\eticaretapi.persistance\\repositories\\productimagefile\\productimagefilewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632CC3BC-EFBA-48B1-B9D3-CC398CE5E803}|Infrastracture\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj|solutionrelative:infrastracture\\eticaretapi.persistance\\repositories\\productimagefile\\productimagefilewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ETicaretAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Contexts\\ETicaretAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Contexts\\ETicaretAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Contexts\\ETicaretAPIDbContext.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Contexts\\ETicaretAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Token\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Token\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Token\\TokenHandler.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Token\\TokenHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwCgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwC4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:06:58.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Services\\AuthService.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAYwI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:56:02.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IExternalAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IExternalAuthentication.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IExternalAuthentication.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IExternalAuthentication.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IExternalAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:44:01.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInternalAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IInternalAuthentication.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IInternalAuthentication.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IInternalAuthentication.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\Authentication\\IInternalAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:44:12.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:26:59.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppRole.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Services\\IUserService.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Abstraction\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:06:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUser.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUser.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUser.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:09:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\CreateUser\\Commands\\CreateUserCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:48:35.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Configuration.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Configuration.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Configuration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:48:35.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetProductFileImagesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FacebookLoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:09:43.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FacebookLoginCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:09:56.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FacebookLoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\FacebookLogin\\Commands\\FacebookLoginCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:10:06.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\appsettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T19:59:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetProductFileImagesQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetProductFileImagesQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Queries\\GetProductImages\\GetProductFileImagesQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfigureExceptionHandlerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Extensions\\ConfigureExceptionHandlerExtension.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Extensions\\ConfigureExceptionHandlerExtension.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Extensions\\ConfigureExceptionHandlerExtension.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Extensions\\ConfigureExceptionHandlerExtension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:39:15.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsernameColumnWriter.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Configuration\\UsernameColumnWriter.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Configuration\\UsernameColumnWriter.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Configuration\\UsernameColumnWriter.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Configuration\\UsernameColumnWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:30:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RemoveProductFileImageCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RemoveProductFileImageCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UploadProductFileImageCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\File.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\File.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\File.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\File.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductImageFile.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\ProductImageFile.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\ProductImageFile.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\ProductImageFile.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\ProductImageFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UploadProductFileImageCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UploadProductFileImageCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Upload\\UploadProductFileImageCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AzureStorage.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Azure\\AzureStorage.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Azure\\AzureStorage.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Azure\\AzureStorage.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Azure\\AzureStorage.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Storage.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Storage.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Storage.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Storage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthenticationErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Exceptions\\AuthenticationErrorException.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:18:53.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ETicaretAPI.API.csproj",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T13:56:13.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:40:48.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GoogleLoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:04:32.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AssemblyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\AssemblyProvider.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\AssemblyProvider.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\AssemblyProvider.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\AssemblyProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GoogleLoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:03:14.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GoogleLoginCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\GoogleLogin\\Commands\\GoogleLoginCommandRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:03:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAzureStorage.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Storage\\Azure\\IAzureStorage.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Abstraction\\Storage\\Azure\\IAzureStorage.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstraction\\Storage\\Azure\\IAzureStorage.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Abstraction\\Storage\\Azure\\IAzureStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:32:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:08:29.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Infrasracture\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Infrasracture\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ITokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Token\\ITokenHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Token\\ITokenHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Token\\ITokenHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Token\\ITokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RefreshTokenLoginCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:27:49.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RefreshTokenLoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:28:00.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RefreshTokenLoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\RefreshTokenLogin\\Commands\\RefreshTokenLoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:27:12.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Services\\UserService.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:18:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240327121224_mig_9.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327121224_mig_9.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327121224_mig_9.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327121224_mig_9.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327121224_mig_9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:12:24.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Token.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\DTOs\\Token.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Token.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\DTOs\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240327104838_mig_8.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327104838_mig_8.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327104838_mig_8.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327104838_mig_8.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240327104838_mig_8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:48:38.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUserResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUserResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\DTOs\\User\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:14:17.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FacebookUserAccessTokenValidation.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserAccessTokenValidation.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserAccessTokenValidation.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserAccessTokenValidation.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserAccessTokenValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:44:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FacebookUserInfoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserInfoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserInfoResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserInfoResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookUserInfoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:59:02.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FacebookAccessTokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookAccessTokenResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookAccessTokenResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookAccessTokenResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\DTOs\\Facebook\\FacebookAccessTokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:27:17.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoginUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\AppUser\\LoginUser\\Commands\\LoginUserCommandResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "NotFoundUserException.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Exceptions\\NotFoundUserException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserCreateFailedException.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Exceptions\\UserCreateFailedException.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Exceptions\\UserCreateFailedException.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Exceptions\\UserCreateFailedException.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Exceptions\\UserCreateFailedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Results\\Responses.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Results\\Responses.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Results\\Responses.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Results\\Responses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Results\\ResponseFactory.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Results\\ResponseFactory.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Results\\ResponseFactory.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Results\\ResponseFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwA4AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240310143331_mig_7.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240310143331_mig_7.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240310143331_mig_7.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240310143331_mig_7.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240310143331_mig_7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ETicaretAPIDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\ETicaretAPIDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\ETicaretAPIDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\ETicaretAPIDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\ETicaretAPIDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RemoveProductFileImageCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\ProductFileImage\\Commands\\Remove\\RemoveProductFileImageCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "RemoveProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GetByIdProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "GetByIdProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GetByIdProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetById\\GetByIdProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RemoveProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "GetAllProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "GetAllProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Queries\\GetAll\\GetAllProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "RemoveProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Remove\\RemoveProductCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UpdateProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UpdateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Update\\UpdateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "VM_Update_Product.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ViewModels\\VM_Update_Product.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\ViewModels\\VM_Update_Product.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ViewModels\\VM_Update_Product.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\ViewModels\\VM_Update_Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CreateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CreateProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Product\\Commands\\Create\\CreateProductCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "VM_Create_Product.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ViewModels\\VM_Create_Product.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\ViewModels\\VM_Create_Product.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ViewModels\\VM_Create_Product.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\ViewModels\\VM_Create_Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "LocalStorage.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Local\\LocalStorage.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Local\\LocalStorage.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Local\\LocalStorage.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\Local\\LocalStorage.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "InvoiceFile.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\InvoiceFile.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\InvoiceFile.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\InvoiceFile.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\InvoiceFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\StorageService.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\StorageService.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\StorageService.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Infrasracture\\Services\\Storage\\StorageService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240223130350_mig_5.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240223130350_mig_5.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240223130350_mig_5.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240223130350_mig_5.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240223130350_mig_5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "FileWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\File\\FileWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\File\\FileWriteRepository.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\File\\FileWriteRepository.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\File\\FileWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20240227110621_mig_.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240227110621_mig_.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240227110621_mig_.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240227110621_mig_.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240227110621_mig_.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20240216153405_mig_4.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240216153405_mig_4.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240216153405_mig_4.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240216153405_mig_4.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Migrations\\20240216153405_mig_4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ProductImageFileWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ProductImageFile\\ProductImageFileWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ProductImageFile\\ProductImageFileWriteRepository.cs",
+              "ToolTip": "C:\\Users\\kagan\\OneDrive\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ProductImageFile\\ProductImageFileWriteRepository.cs",
+              "RelativeToolTip": "Infrastracture\\ETicaretAPI.Persistance\\Repositories\\ProductImageFile\\ProductImageFileWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:29.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
